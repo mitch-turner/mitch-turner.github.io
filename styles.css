@@ -15,6 +15,7 @@ a:link, a:visited {
   padding: 14px 25px;
   border-radius: 5px;
   text-align: center;
+  margin: 0 auto;
   text-decoration: none;
   display: inline-block;
 }
@@ -22,5 +23,4 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: black;
   color: white;
-  text-align: center;
 }
