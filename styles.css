@@ -5,9 +5,11 @@ body {
 h1 {
   color: black;
   font-family: helvetica, sans-serif;
+  text-align: center;
 }
 
 a {
   color: black;
   font-family: helvetica, sans-serif;
+  text-align: center;
 }
