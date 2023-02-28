@@ -13,6 +13,7 @@ a:link, a:visited {
   background-color: grey;
   color: white;
   padding: 14px 25px;
+  border-radius: 5px;
   text-align: center;
   width: 100%;
   text-decoration: none;
