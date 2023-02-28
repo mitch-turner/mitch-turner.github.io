@@ -8,8 +8,16 @@ h1 {
   text-align: center;
 }
 
-a {
-  color: black;
+a:link, a:visited, {
   font-family: helvetica, sans-serif;
+  background-color: grey;
+  color: white;
+  padding: 14px 25px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: black;
 }
